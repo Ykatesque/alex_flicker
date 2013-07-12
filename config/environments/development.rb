@@ -22,8 +22,8 @@ Flicker::Application.configure do
     :domain         => "",
     :authentication => "plain",
     enable_starttls_auto: true,
-    :user_name      => 'yekaterina.photography',
-    :password       => 'powers11'
+    :user_name      => 'username',
+    :password       => 'password'
   }
 
   # Print deprecation notices to the Rails logger
